@@ -1,0 +1,4 @@
+.idea/
+machine-learning-engineer-assignment/API/latency_logs.log
+**/.terraform
+**/.terraform.lock.hcl

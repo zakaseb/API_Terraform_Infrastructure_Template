@@ -1,0 +1,237 @@
+2024-10-07 15:39:06,322 Started server process [24632]
+2024-10-07 15:39:06,322 Waiting for application startup.
+2024-10-07 15:39:06,322 Application startup complete.
+2024-10-07 15:39:06,322 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-07 15:40:54,103 Latency: 3.0145645141601562 ms
+2024-10-07 17:07:05,030 Shutting down
+2024-10-07 17:07:05,158 Waiting for application shutdown.
+2024-10-07 17:07:05,166 Application shutdown complete.
+2024-10-07 17:07:05,166 Finished server process [24632]
+2024-10-07 17:20:30,813 Started server process [98980]
+2024-10-07 17:20:30,813 Waiting for application startup.
+2024-10-07 17:20:30,813 Application startup complete.
+2024-10-07 17:20:30,813 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-07 17:21:31,992 Latency: 0.0 ms
+2024-10-10 21:17:01,083 Started server process [37476]
+2024-10-10 21:17:01,098 Waiting for application startup.
+2024-10-10 21:17:01,098 Application startup complete.
+2024-10-10 21:17:01,098 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-10 21:17:09,059 Shutting down
+2024-10-10 21:17:09,169 Waiting for application shutdown.
+2024-10-10 21:17:09,169 Application shutdown complete.
+2024-10-10 21:17:09,169 Finished server process [37476]
+2024-10-11 11:51:05,413 Started server process [16344]
+2024-10-11 11:51:05,413 Waiting for application startup.
+2024-10-11 11:51:05,414 Application startup complete.
+2024-10-11 11:51:05,414 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 11:53:15,100 Shutting down
+2024-10-11 11:53:15,210 Waiting for application shutdown.
+2024-10-11 11:53:15,211 Application shutdown complete.
+2024-10-11 11:53:15,211 Finished server process [16344]
+2024-10-11 11:53:19,688 Started server process [38080]
+2024-10-11 11:53:19,688 Waiting for application startup.
+2024-10-11 11:53:19,689 Application startup complete.
+2024-10-11 11:53:19,689 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 11:53:30,402 Latency: 78.59015464782715 ms
+2024-10-11 12:55:22,871 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-11 12:55:23,130 Started server process [45656]
+2024-10-11 12:55:23,131 Waiting for application startup.
+2024-10-11 12:55:23,131 Application startup complete.
+2024-10-11 12:55:23,131 [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8887): only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-10-11 12:55:23,131 Waiting for application shutdown.
+2024-10-11 12:55:23,131 Application shutdown complete.
+2024-10-11 12:55:53,375 Shutting down
+2024-10-11 12:55:53,483 Waiting for application shutdown.
+2024-10-11 12:55:53,486 Application shutdown complete.
+2024-10-11 12:55:53,487 Finished server process [38080]
+2024-10-11 12:55:59,555 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-11 12:55:59,766 Started server process [17224]
+2024-10-11 12:55:59,767 Waiting for application startup.
+2024-10-11 12:55:59,767 Application startup complete.
+2024-10-11 12:55:59,767 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 12:56:07,759 Latency: 1412.9719734191895 ms
+2024-10-11 13:02:42,079 Shutting down
+2024-10-11 13:02:42,189 Waiting for application shutdown.
+2024-10-11 13:02:42,190 Application shutdown complete.
+2024-10-11 13:02:42,190 Finished server process [17224]
+2024-10-11 14:58:18,688 Started server process [40700]
+2024-10-11 14:58:18,689 Waiting for application startup.
+2024-10-11 14:58:18,689 Application startup complete.
+2024-10-11 14:58:18,690 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 14:58:42,177 Shutting down
+2024-10-11 14:58:42,278 Waiting for application shutdown.
+2024-10-11 14:58:42,278 Application shutdown complete.
+2024-10-11 14:58:42,280 Finished server process [40700]
+2024-10-11 14:58:45,990 Started server process [36176]
+2024-10-11 14:58:45,990 Waiting for application startup.
+2024-10-11 14:58:45,990 Application startup complete.
+2024-10-11 14:58:45,990 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 15:00:58,249 Shutting down
+2024-10-11 15:00:58,359 Waiting for application shutdown.
+2024-10-11 15:00:58,359 Application shutdown complete.
+2024-10-11 15:00:58,359 Finished server process [36176]
+2024-10-11 15:01:01,456 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-11 15:01:01,669 Started server process [46328]
+2024-10-11 15:01:01,669 Waiting for application startup.
+2024-10-11 15:01:01,669 Application startup complete.
+2024-10-11 15:01:01,670 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 15:01:08,898 Latency: 1507.5373649597168 ms
+2024-10-11 15:27:27,646 Shutting down
+2024-10-11 15:27:27,753 Waiting for application shutdown.
+2024-10-11 15:27:27,753 Application shutdown complete.
+2024-10-11 15:27:27,753 Finished server process [46328]
+2024-10-11 15:29:59,279 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-11 15:29:59,504 Started server process [37204]
+2024-10-11 15:29:59,504 Waiting for application startup.
+2024-10-11 15:29:59,504 Application startup complete.
+2024-10-11 15:29:59,505 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 15:30:07,089 Latency: 1408.9961051940918 ms
+2024-10-11 15:32:01,010 Shutting down
+2024-10-11 15:32:01,121 Waiting for application shutdown.
+2024-10-11 15:32:01,121 Application shutdown complete.
+2024-10-11 15:32:01,121 Finished server process [37204]
+2024-10-11 15:33:08,126 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-11 15:33:08,343 Started server process [45560]
+2024-10-11 15:33:08,343 Waiting for application startup.
+2024-10-11 15:33:08,344 Application startup complete.
+2024-10-11 15:33:08,344 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-11 15:33:21,551 Latency: 1210.561990737915 ms
+2024-10-12 14:52:48,394 Shutting down
+2024-10-12 14:52:48,515 Waiting for application shutdown.
+2024-10-12 14:52:48,519 Application shutdown complete.
+2024-10-12 14:52:48,519 Finished server process [45560]
+2024-10-12 15:33:42,510 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-12 15:33:42,728 Started server process [26532]
+2024-10-12 15:33:42,728 Waiting for application startup.
+2024-10-12 15:33:42,728 Application startup complete.
+2024-10-12 15:33:42,729 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 15:33:58,633 Latency: 2313.1661415100098 ms
+2024-10-12 16:08:48,404 Shutting down
+2024-10-12 16:08:48,513 Waiting for application shutdown.
+2024-10-12 16:08:48,513 Application shutdown complete.
+2024-10-12 16:08:48,513 Finished server process [26532]
+2024-10-12 16:40:33,238 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-12 16:40:33,501 Started server process [31284]
+2024-10-12 16:40:33,501 Waiting for application startup.
+2024-10-12 16:40:33,501 Application startup complete.
+2024-10-12 16:40:33,503 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 16:40:42,999 Latency: 4094.376564025879 ms
+2024-10-12 16:41:06,366 Shutting down
+2024-10-12 16:41:06,478 Waiting for application shutdown.
+2024-10-12 16:41:06,478 Application shutdown complete.
+2024-10-12 16:41:06,478 Finished server process [31284]
+2024-10-12 16:42:32,800 Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-12 16:42:33,075 Started server process [38804]
+2024-10-12 16:42:33,075 Waiting for application startup.
+2024-10-12 16:42:33,076 Application startup complete.
+2024-10-12 16:42:33,076 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 16:42:41,195 Latency: 3886.28888130188 ms
+2024-10-12 16:45:12,042 Latency: 2358.8640689849854 ms
+2024-10-12 16:45:56,147 Shutting down
+2024-10-12 16:45:56,257 Waiting for application shutdown.
+2024-10-12 16:45:56,257 Application shutdown complete.
+2024-10-12 16:45:56,257 Finished server process [38804]
+2024-10-12 17:52:18,655 Started server process [16240]
+2024-10-12 17:52:18,655 Waiting for application startup.
+2024-10-12 17:52:18,655 Application startup complete.
+2024-10-12 17:52:18,655 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 17:57:29,994 Shutting down
+2024-10-12 17:57:30,095 Waiting for application shutdown.
+2024-10-12 17:57:30,096 Application shutdown complete.
+2024-10-12 17:57:30,096 Finished server process [16240]
+2024-10-12 17:57:45,641 Started server process [9816]
+2024-10-12 17:57:45,641 Waiting for application startup.
+2024-10-12 17:57:45,641 Application startup complete.
+2024-10-12 17:57:45,641 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 17:58:06,080 Shutting down
+2024-10-12 17:58:06,190 Waiting for application shutdown.
+2024-10-12 17:58:06,191 Application shutdown complete.
+2024-10-12 17:58:06,191 Finished server process [9816]
+2024-10-12 17:58:37,132 Started server process [36368]
+2024-10-12 17:58:37,132 Waiting for application startup.
+2024-10-12 17:58:37,132 Application startup complete.
+2024-10-12 17:58:37,132 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-12 18:08:38,226 Shutting down
+2024-10-12 18:08:38,336 Waiting for application shutdown.
+2024-10-12 18:08:38,336 Application shutdown complete.
+2024-10-12 18:08:38,336 Finished server process [36368]
+2024-10-12 18:08:44,829 Started server process [13908]
+2024-10-12 18:08:44,829 Waiting for application startup.
+2024-10-12 18:08:44,829 Application startup complete.
+2024-10-12 18:08:44,829 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 14:44:07,732 Shutting down
+2024-10-13 14:44:07,835 Waiting for application shutdown.
+2024-10-13 14:44:07,835 Application shutdown complete.
+2024-10-13 14:44:07,836 Finished server process [13908]
+2024-10-13 14:44:35,230 Started server process [19460]
+2024-10-13 14:44:35,231 Waiting for application startup.
+2024-10-13 14:44:35,231 Application startup complete.
+2024-10-13 14:44:35,232 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 15:03:49,172 Shutting down
+2024-10-13 15:03:49,284 Waiting for application shutdown.
+2024-10-13 15:03:49,284 Application shutdown complete.
+2024-10-13 15:03:49,284 Finished server process [19460]
+2024-10-13 15:12:38,401 Started server process [43864]
+2024-10-13 15:12:38,401 Waiting for application startup.
+2024-10-13 15:12:38,401 Application startup complete.
+2024-10-13 15:12:38,401 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 16:17:28,068 Shutting down
+2024-10-13 16:17:28,182 Waiting for application shutdown.
+2024-10-13 16:17:28,182 Application shutdown complete.
+2024-10-13 16:17:28,182 Finished server process [43864]
+2024-10-13 16:53:09,901 Started server process [15832]
+2024-10-13 16:53:09,901 Waiting for application startup.
+2024-10-13 16:53:09,901 Application startup complete.
+2024-10-13 16:53:09,901 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 17:13:58,196 Shutting down
+2024-10-13 17:13:58,312 Waiting for application shutdown.
+2024-10-13 17:13:58,313 Application shutdown complete.
+2024-10-13 17:13:58,313 Finished server process [15832]
+2024-10-13 17:14:07,963 Started server process [19260]
+2024-10-13 17:14:07,963 Waiting for application startup.
+2024-10-13 17:14:07,963 Application startup complete.
+2024-10-13 17:14:07,963 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 17:14:27,317 Shutting down
+2024-10-13 17:14:27,428 Waiting for application shutdown.
+2024-10-13 17:14:27,429 Application shutdown complete.
+2024-10-13 17:14:27,429 Finished server process [19260]
+2024-10-13 17:14:30,621 Started server process [30584]
+2024-10-13 17:14:30,621 Waiting for application startup.
+2024-10-13 17:14:30,621 Application startup complete.
+2024-10-13 17:14:30,621 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 17:24:57,007 Shutting down
+2024-10-13 17:24:57,119 Waiting for application shutdown.
+2024-10-13 17:24:57,119 Application shutdown complete.
+2024-10-13 17:24:57,119 Finished server process [30584]
+2024-10-13 17:25:26,382 Started server process [26128]
+2024-10-13 17:25:26,382 Waiting for application startup.
+2024-10-13 17:25:26,398 Application startup complete.
+2024-10-13 17:25:26,399 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 17:56:33,214 Shutting down
+2024-10-13 17:56:33,325 Waiting for application shutdown.
+2024-10-13 17:56:33,325 Application shutdown complete.
+2024-10-13 17:56:33,325 Finished server process [26128]
+2024-10-13 17:56:57,159 Started server process [43752]
+2024-10-13 17:56:57,159 Waiting for application startup.
+2024-10-13 17:56:57,159 Application startup complete.
+2024-10-13 17:56:57,159 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 19:05:50,549 Shutting down
+2024-10-13 19:05:50,660 Waiting for application shutdown.
+2024-10-13 19:05:50,660 Application shutdown complete.
+2024-10-13 19:05:50,660 Finished server process [43752]
+2024-10-13 19:08:40,484 Started server process [5892]
+2024-10-13 19:08:40,484 Waiting for application startup.
+2024-10-13 19:08:40,484 Application startup complete.
+2024-10-13 19:08:40,484 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 19:14:20,104 Shutting down
+2024-10-13 19:14:20,215 Waiting for application shutdown.
+2024-10-13 19:14:20,215 Application shutdown complete.
+2024-10-13 19:14:20,215 Finished server process [5892]
+2024-10-13 19:15:23,082 Started server process [14204]
+2024-10-13 19:15:23,082 Waiting for application startup.
+2024-10-13 19:15:23,082 Application startup complete.
+2024-10-13 19:15:23,082 Uvicorn running on http://0.0.0.0:8887 (Press CTRL+C to quit)
+2024-10-13 19:16:57,958 Shutting down
+2024-10-13 19:16:58,069 Waiting for application shutdown.
+2024-10-13 19:16:58,069 Application shutdown complete.
+2024-10-13 19:16:58,069 Finished server process [14204]
