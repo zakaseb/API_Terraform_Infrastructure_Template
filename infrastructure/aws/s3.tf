@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "callsign" {
-  bucket = "callsigndata"
+  bucket = "callsigndata_test"
 }
